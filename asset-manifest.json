@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mdndevelopment/static/css/main.21c7a386.chunk.css",
+    "main.js": "/mdndevelopment/static/js/main.44a31c1c.chunk.js",
+    "main.js.map": "/mdndevelopment/static/js/main.44a31c1c.chunk.js.map",
+    "runtime-main.js": "/mdndevelopment/static/js/runtime-main.7daa043d.js",
+    "runtime-main.js.map": "/mdndevelopment/static/js/runtime-main.7daa043d.js.map",
+    "static/js/2.1bf68a96.chunk.js": "/mdndevelopment/static/js/2.1bf68a96.chunk.js",
+    "static/js/2.1bf68a96.chunk.js.map": "/mdndevelopment/static/js/2.1bf68a96.chunk.js.map",
+    "index.html": "/mdndevelopment/index.html",
+    "precache-manifest.3c233f2dbc71a00f0d55060029282729.js": "/mdndevelopment/precache-manifest.3c233f2dbc71a00f0d55060029282729.js",
+    "service-worker.js": "/mdndevelopment/service-worker.js",
+    "static/css/main.21c7a386.chunk.css.map": "/mdndevelopment/static/css/main.21c7a386.chunk.css.map",
+    "static/js/2.1bf68a96.chunk.js.LICENSE.txt": "/mdndevelopment/static/js/2.1bf68a96.chunk.js.LICENSE.txt",
+    "static/media/benStokesLogo.png": "/mdndevelopment/static/media/benStokesLogo.ca2f283e.png",
+    "static/media/close.cad70081.svg": "/mdndevelopment/static/media/close.cad70081.svg",
+    "static/media/indianaHamesLogo.png": "/mdndevelopment/static/media/indianaHamesLogo.2d9b09b1.png",
+    "static/media/open-menu.4aaf92d0.svg": "/mdndevelopment/static/media/open-menu.4aaf92d0.svg",
+    "static/media/playerConnectLogo.png": "/mdndevelopment/static/media/playerConnectLogo.d630abcb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7daa043d.js",
+    "static/js/2.1bf68a96.chunk.js",
+    "static/css/main.21c7a386.chunk.css",
+    "static/js/main.44a31c1c.chunk.js"
+  ]
+}
