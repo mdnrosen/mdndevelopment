@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import { HashRouter, Route, Switch } from 'react-router-dom'
 
 import './App.scss';
 
@@ -15,7 +15,7 @@ import Bio from './components/bio';
 
 function App() {
   return (
-    <BrowserRouter basename="/">
+    <HashRouter basename="/">
     <div className="App">
         <Nav />
           <Switch>
@@ -26,7 +26,7 @@ function App() {
             <Route path="/bio" component={Bio} />
           </Switch> 
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
