@@ -15,7 +15,7 @@ import Bio from './components/bio';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/">
     <div className="App">
         <Nav />
           <Switch>
