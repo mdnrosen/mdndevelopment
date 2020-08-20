@@ -2,9 +2,18 @@ const data = {
 "projects":
 [
     {
+        "image": "pammyLogo",
+        "fillColor": "#F7F7F7",
+        "index": 0,
+        "comment" : "a band website with a flamboyant frontend",
+        "tech": "react ~ scss ~ react-transition-group",
+        "siteLink" : "http://www.pammyandthehoffs.com",
+        "githubLink" : "https://github.com/mdnrosen/pammyandthehoffs"
+    },
+    {
         "image" : "itchyFeetLogo",
         "fillColor": "#AECB36",
-        "index": 0,
+        "index": 1,
         "title" : "Itchy Feet",
         "comment" :"a full stack app for the curious traveller",
         "tech" :"react ~ scss ~ python ~ mysql",
@@ -14,7 +23,7 @@ const data = {
     {
         "image" : "playerConnectLogo",
         "fillColor": "#000000",
-        "index": 1,
+        "index": 2,
         "title" : "Player Connect",
         "comment" :"an app for gaming news and reviews",
         "tech" :"react ~ scss ~ node.js ~ mongodb",
@@ -24,7 +33,7 @@ const data = {
     {
         "image" : "javascriptLogo",
         "fillColor" :"#FFCA27",
-        "index": 2,
+        "index": 3,
         "title" : "Javascript Games",
         "comment" :"a selection of games built with only vanilla JS",
         "tech" :"html ~ scss ~ javascript ~ jquery",
@@ -34,7 +43,7 @@ const data = {
     {
         "image" : "indianaHamesLogo",
         "fillColor": "#E1E7D3",
-        "index": 3,
+        "index": 4,
 
         "title" : "Indiana Hames",
         "comment" :"a frontend app for a travel blog",
@@ -45,7 +54,7 @@ const data = {
     {
         "image" : "benStokesLogo",
         "fillColor": "#002C59",
-        "index": 4,
+        "index": 5,
         "title" : "Ben Stokes Counter",
         "comment" :"a simple app to display time passed since heroic moments",
         "tech" :"react ~ scss",
