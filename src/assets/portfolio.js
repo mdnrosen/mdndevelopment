@@ -37,7 +37,7 @@ const data = {
         "title" : "Javascript Games",
         "comment" :"a selection of games built with only vanilla JS",
         "tech" :"html ~ scss ~ javascript ~ jquery",
-        "siteLink": "http://mdndevelopment.co.uk/javascriptgames",
+        "siteLink": "https://mdnrosen.github.io/javascriptgames/",
         "githubLink": "https://github.com/mdnrosen/javascriptgames"
     },
     {
@@ -58,7 +58,7 @@ const data = {
         "title" : "Ben Stokes Counter",
         "comment" :"a simple app to display time passed since heroic moments",
         "tech" :"react ~ scss",
-        "siteLink": "http://mdndevelopment.co.uk/benstokes",
+        "siteLink": "https://mdnrosen.github.io/benstokes/",
         "githubLink": "https://github.com/mdnrosen/benstokes"
     }
 ]
