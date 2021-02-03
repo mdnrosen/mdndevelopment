@@ -44,7 +44,6 @@ const data = {
         "image" : "indianaHamesLogo",
         "fillColor": "#E1E7D3",
         "index": 4,
-
         "title" : "Indiana Hames",
         "comment" :"a frontend app for a travel blog",
         "tech" :"react ~ scss",
