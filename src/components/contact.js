@@ -17,6 +17,12 @@ const Contact = () => {
                     </a>
                     <a className="link emailLink" href="https://www.github.com/mdnrosen" target="_blank" rel="noopener noreferrer">github.com/mdnrosen</a>
                 </div>
+                <div className="linkedin contactCard">
+                    <a className="icon" href="https://www.github.com/mdnrosen" target="_blank" rel="noopener noreferrer">
+                        <i className="fab fa-linkedin"></i>
+                    </a>
+                    <a className="link emailLink" href="https://www.linkedin.com/in/miles-rosen-a04300201/" target="_blank" rel="noopener noreferrer">linkedin.com/in/miles-rosen</a>
+                </div>
             </div>
             
         </div>
