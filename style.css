@@ -1,0 +1,108 @@
+
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Sorts Mill Goudy', serif;
+    color: #F5F5F5;
+    background-color: #222222;
+    color: white;
+  }
+
+
+  main {
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .highlight {
+    color: #9A3B37
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
+    transition-delay: 100ms;
+
+  }
+
+  /* $myRed: #9A3B37; */
+
+h1 {
+    font-size: 2.5em;
+}
+
+.hidden {
+    opacity: 0;
+    filter: blur(5px);
+    transform: translateX(-100%);
+    transition: all 1s; 
+}
+
+.show {
+    opacity: 1;
+    filter: blur(0);
+    transform: translateX(0);
+}
+
+a:hover {
+    cursor: pointer;
+    color: #9A3B37;
+    text-decoration: none;
+}
+
+.items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    flex-wrap: wrap;
+    max-width: 80vw;
+    justify-content: space-around;
+}
+.items:nth-child(1) {
+    transition-delay: 200ms;
+}
+
+.item:nth-child(2) {
+    transition-delay: 300ms;
+}
+
+.item:nth-child(3) {
+    transition-delay: 400ms;
+}
+
+.item:nth-child(4) {
+    transition-delay: 500ms;
+}
+
+.item:nth-child(5) {
+    transition-delay: 600ms;
+}
+
+.item:nth-child(6) {
+    transition-delay: 700ms;
+}.item:nth-child(7) {
+    transition-delay: 800ms;
+}.item:nth-child(8) {
+    transition-delay: 900ms;
+}.item:nth-child(9) {
+    transition-delay: 1000ms;
+}
+
+.skillsWrapper .item {
+    margin: 1em;
+}
+
+
+
+.contactCard {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2em;
+}
